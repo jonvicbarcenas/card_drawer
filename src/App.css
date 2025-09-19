@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background: wheat;
+  background: linear-gradient(135deg, #ffffff 0%, #dbc1d7 100%);
   min-height: 100vh;
   padding: 20px;
   font-family: 'Arial', sans-serif;
